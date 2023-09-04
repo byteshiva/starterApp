@@ -10,7 +10,7 @@ object Versions {
     const val APPCOMPAT = "1.3.0"
     const val CONSTRAINT_LAYOUT = "2.0.4"
     const val CORE_KTX = "1.6.0"
-    const val ESPRESSO_CORE = "3.4.0"
+    const val ESPRESSO_CORE = "3.5.1"
     const val JUNIT = "4.13.2"
     const val KTLINT = "0.42.0"
 }
